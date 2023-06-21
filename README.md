@@ -1,11 +1,13 @@
 <h1 align="center">Hey 👋, I'm Phanakis (Akis) Hajittofi</h1>
-<h3 align="center">Junior Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer | Looking for work</h3>
 
-- 🔭 I’m currently working on [Quiz App](https://github.com/Akis-Hajittofi/quiz-app)
+- 🔭 I’m currently working on my portfolio, including [Quiz App](https://github.com/Akis-Hajittofi/quiz-app)
+
+- 🎓 Recently graduated from a full-time 6-month coding bootcamp at Boolean UK: [certificate](https://www.credential.net/5212aecf-9019-4f20-93f1-5e286f34c63f#gs.19yh3r)
 
 - 📫 How to reach me **phanakishajittofi@gmail.com**
 
-- 📄 My CV [https://app.enhancv.com/share/439ce82a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/439ce82a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📄 My CV: [Here](https://app.enhancv.com/share/439ce82a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
