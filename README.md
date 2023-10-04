@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋, I'm Phanakis (Akis) Hajittofi</h1>
+<h1 align="center">Hey 👋, I'm Phanakis "Akis" Hajittofi</h1>
 <h3 align="center">Full Stack Developer | Looking for work</h3>
 
-- 🔭 I’m currently working on my portfolio, including [Quiz App](https://github.com/Akis-Hajittofi/quiz-app)
+- 🔭 My portfolio website is coming soon! Currently, I am learning Next.js 13, making [Trello Clone](https://github.com/Akis-Hajittofi/trello-clone)
 
 - 🎓 Recently graduated from a full-time 6-month coding bootcamp at Boolean UK: [certificate](https://www.credential.net/5212aecf-9019-4f20-93f1-5e286f34c63f#gs.19yh3r)
 
