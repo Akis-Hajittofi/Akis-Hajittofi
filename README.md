@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **phanakishajittofi@gmail.com**
 
-- 📄 My CV: [Here](https://app.enhancv.com/share/439ce82a/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📄 My CV: [Here](https://flowcv.com/resume/ch5rb8wmsu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
