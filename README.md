@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Phanakis "Akis" Hajittofi</h1>
 <h3 align="center">Full Stack Developer | Looking for work</h3>
 
-- 🌐 Portfolio: [www.phanakishajittofi.dev](https://phanakishajittofi.dev)
+- 🌐 Portfolio: [phanakishajittofi.dev](https://phanakishajittofi.dev)
 
 - 🎓 Graduated from a full-time 6-month coding bootcamp at Boolean UK: [certificate](https://www.credential.net/5212aecf-9019-4f20-93f1-5e286f34c63f#gs.19yh3r)
 
